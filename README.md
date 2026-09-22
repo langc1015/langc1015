@@ -1,5 +1,8 @@
-## Hi there 👋
-I’m currently learning how to manipulate and work with DataFrames with Pandas
+## Hi there 👋 I'm Camryn Lang
+I'm a 2nd Year Computer Science student at Northeastern University, passionate about software development and data analysis! My interests extend to mathematics, where I am currently taking classes in statistical probability and breaking down computer algorithms into proofs and calculations.
+- 🌱 I’m currently learning C++ and how to write effective Assembly code
+- 🔭 I’m currently working as a Teaching Assistant for Discrete Structures, where I help others learn difficult programming fundamentals, while also strengthening my own foundations!
+- 💬 Ask me about the online support system for women I helped design!
 How to reach me: Email - langc1015@gmail.com
 Fun fact: I am mix-handed!
 <!--
