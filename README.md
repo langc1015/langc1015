@@ -3,8 +3,8 @@ I'm a 2nd Year Computer Science student at Northeastern University, passionate a
 - 🌱 I’m currently learning C++ and how to write effective Assembly code
 - 🔭 I’m currently working as a Teaching Assistant for Discrete Structures, where I help others learn difficult programming fundamentals, while also strengthening my own foundations!
 - 💬 Ask me about the online support system for women I helped design!
-How to reach me: Email - langc1015@gmail.com
-Fun fact: I am mix-handed!
+- 📫 How to reach me: Email - langc1015@gmail.com
+- ⚡ Fun fact: I am mix-handed!
 <!--
 **langc1015/langc1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
